@@ -1,0 +1,35 @@
+button { 
+    width: 150px;
+    height: 40px;
+    margin: 0 10px;
+    cursor: pointer;
+    font-size: 24px;
+    border-radius: 0.25rem;
+    color: rgb(255, 255, 255);    
+    background-clip: padding-box;
+    border: 1px solid rgb(1, 255, 192);
+    background-color: rgb(1, 255, 192);
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;    
+    }
+
+    button:hover {
+        background-color: rgb(0, 139, 46);          
+      }
+      
+      button:active {
+        border: none;       
+      }
+
+span {
+    font-size: 108px;
+    font-family: 'Teko', sans-serif;    
+}
+
+.timerBar{
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 100%;
+  background-color: rgb(255, 248, 152);
+  color: unset;
+}
