@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Advanced-HW-18/static/css/main.246e936a.css",
+    "main.js": "/Advanced-HW-18/static/js/main.0ac182cb.js",
+    "static/js/601.f7699b02.chunk.js": "/Advanced-HW-18/static/js/601.f7699b02.chunk.js",
+    "index.html": "/Advanced-HW-18/index.html",
+    "main.246e936a.css.map": "/Advanced-HW-18/static/css/main.246e936a.css.map",
+    "main.0ac182cb.js.map": "/Advanced-HW-18/static/js/main.0ac182cb.js.map",
+    "601.f7699b02.chunk.js.map": "/Advanced-HW-18/static/js/601.f7699b02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.246e936a.css",
+    "static/js/main.0ac182cb.js"
+  ]
+}
